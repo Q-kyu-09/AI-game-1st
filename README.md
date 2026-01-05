@@ -4,7 +4,7 @@
 A simple browser breakout game built with HTML/CSS/JavaScript (Canvas).
 
 ## How to run
-<a href=""></a>
+Download
 or
 
 1. Put the following files in the same folder:
