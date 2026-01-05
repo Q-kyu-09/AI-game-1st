@@ -4,15 +4,7 @@
 A simple browser breakout game built with HTML/CSS/JavaScript (Canvas).
 
 ## How to run
-Download
-or
-
-1. Put the following files in the same folder:
-   - index.html
-   - style.css
-   - script.js
-   - bgm.mp3  ← add your background music file named `bgm.mp3` here
-2. Open `index.html` in your browser.
+Open `index.html` in your browser.
 
 ## Controls
 - Left / Right arrows or A / D to move the paddle
