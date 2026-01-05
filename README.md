@@ -1,5 +1,6 @@
 # Breakout (Block Breaker)
 
+<img src="image.png">
 A simple browser breakout game built with HTML/CSS/JavaScript (Canvas).
 
 ## How to run
