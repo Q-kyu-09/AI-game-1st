@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Breakout — Block Breaker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="wrap">
+    <h1>Breakout</h1>
+
+    <div class="hud">
+      <div>Score: <span id="score">0</span></div>
+      <div>Lives: <span id="lives">3</span></div>
+      <div>Level: <span id="level">1</span></div>
+    </div>
+
+    <div class="canvas-wrap">
+      <canvas id="gameCanvas" width="800" height="600"></canvas>
+      <div class="overlay" id="overlay">
+        <div id="overlayText">Press Space or the button to start</div>
+        <button id="startBtn">Start / Restart</button>
+      </div>
+    </div>
+
+    <p class="controls">
+      Controls: ← → / A D / Move mouse — Space to pause / resume
+    </p>
+    <footer>
+      <small>Made with JavaScript — Breakout</small>
+    </footer>
+  </main>
+
+  <!-- Put bgm.mp3 in the same folder. This audio element is controlled from script.js -->
+  <audio id="bgm" src="bgm.mp3" preload="auto" loop></audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
