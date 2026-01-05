@@ -4,6 +4,9 @@
 A simple browser breakout game built with HTML/CSS/JavaScript (Canvas).
 
 ## How to run
+<a href=""></a>
+or
+
 1. Put the following files in the same folder:
    - index.html
    - style.css
